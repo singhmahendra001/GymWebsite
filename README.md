@@ -206,8 +206,7 @@ button{
         
        <button class="btn1" onclick="myfunction()">Submit Now</button>
        <button class="btn2">Reset Now </button>
-       <input class="form-group"type="reset" value="reset now">
-        </div>
+       
       </div>
     </header>
 </body>
